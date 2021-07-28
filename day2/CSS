@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><b>Letter to HOD</b> </title>"
+    <link rel="stylesheet" href="./style.css"></link>
+</head>
+<body>
+    <h3> 
+        Prachi Shahu <br>
+        Plot no 99 Hudkeshwar road Nagpur 
+        <br>Nagpur-440034<br>27 th july 2021<br> 
+    </h3>
+    <h3> 
+        To,<br>
+        The Hod,<br>
+        Anupam Chaubaey, <br>
+       <b> Gh Raisoni College</b><br>
+        Hingana Shradha Park nagpur -440034
+    </h3> 
+    <h2><b> subject:Permission to attend interenship </b></h2><br>
+    <h3>Dear sir,</h3>
+    <br>
+    <p>
+        <h3>My name is <i> Prachi Shahu</i> from <i> BCA </i> department. I am writing this Letter
+        to request permission for attending an internship .I recently got slected  for infosis internship.
+        the timing of internship are 6th Aug 2021 to 25th sep 2021 time slot: 9:30AM to 1:30 PM.</h3>
+    </p>
+    <p>
+       <h3> This insternship being  a really important and integral part of my learning procedure ,I request you to consider
+        my situation andgrant me permission for same.</h3>
+    </p>
+    <br> <h3>I hope you accept my letter.</h3>
+    <br><h3> <i> Thanking you</i><br></h3>
+    <br><h3>Prachi Shahu,<br><br> 4th seem bca ,</h3>
+</body>
+</html>
